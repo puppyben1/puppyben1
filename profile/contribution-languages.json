@@ -1,0 +1,68 @@
+{
+  "username": "puppyben1",
+  "scope": "source-code additions in merged pull requests",
+  "merged_pull_requests": 36,
+  "total_additions": 174268,
+  "languages": [
+    {
+      "language": "TypeScript",
+      "additions": 82287,
+      "percentage": 47.2187
+    },
+    {
+      "language": "Swift",
+      "additions": 40519,
+      "percentage": 23.251
+    },
+    {
+      "language": "Rust",
+      "additions": 40095,
+      "percentage": 23.0077
+    },
+    {
+      "language": "Python",
+      "additions": 5454,
+      "percentage": 3.1297
+    },
+    {
+      "language": "C++",
+      "additions": 3877,
+      "percentage": 2.2247
+    },
+    {
+      "language": "CSS",
+      "additions": 1452,
+      "percentage": 0.8332
+    },
+    {
+      "language": "Shell",
+      "additions": 314,
+      "percentage": 0.1802
+    },
+    {
+      "language": "Astro",
+      "additions": 217,
+      "percentage": 0.1245
+    },
+    {
+      "language": "Kotlin",
+      "additions": 27,
+      "percentage": 0.0155
+    },
+    {
+      "language": "Java",
+      "additions": 15,
+      "percentage": 0.0086
+    },
+    {
+      "language": "Ruby",
+      "additions": 10,
+      "percentage": 0.0057
+    },
+    {
+      "language": "JavaScript",
+      "additions": 1,
+      "percentage": 0.0006
+    }
+  ]
+}
