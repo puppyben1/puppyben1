@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://ghfind.com/u/puppyben1?ref=badge"><img src="https://ghfind.com/api/card/puppyben1?theme=light&amp;variant=work" alt="GitHub Roast" width="600" /></a>
+<a href="https://ghfind.com/u/puppyben1?ref=badge"><img src="./assets/roast-light.png" alt="GitHub Roast" width="600" /></a>
 
 <p>
   <a href="https://github.com/puppyben1"><img src="https://img.shields.io/badge/GitHub-puppyben1-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
