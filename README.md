@@ -15,8 +15,8 @@
 ## `01 / ABOUT`
 
 ```text
-role      电子信息专业学生
-focus     Java 后端 · Python · AI 应用开发
+role      电子信息
+focus     Java 后端  · AI 应用开发
 learning  Rust · 操作系统 · Agent Runtime
 goal      在真实项目与开源协作中持续打磨工程能力
 ```
