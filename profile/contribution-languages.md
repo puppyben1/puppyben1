@@ -2,23 +2,23 @@
 
 Merged pull-request additions by [`@puppyben1`](https://github.com/puppyben1).
 
-- Merged pull requests: **37**
-- Total source-code additions: **174,853 lines**
+- Merged pull requests: **42**
+- Total source-code additions: **178,416 lines**
 
 | Language | Added lines | Share |
 | --- | ---: | ---: |
-| TypeScript | 82,872 | 47.40% |
-| Swift | 40,519 | 23.17% |
-| Rust | 40,095 | 22.93% |
-| Python | 5,454 | 3.12% |
-| C++ | 3,877 | 2.22% |
-| CSS | 1,452 | 0.83% |
+| TypeScript | 85,301 | 47.81% |
+| Rust | 41,220 | 23.10% |
+| Swift | 40,525 | 22.71% |
+| Python | 5,454 | 3.06% |
+| C++ | 3,877 | 2.17% |
+| CSS | 1,455 | 0.82% |
 | Shell | 314 | 0.18% |
 | Astro | 217 | 0.12% |
 | Kotlin | 27 | 0.02% |
 | Java | 15 | 0.01% |
 | Ruby | 10 | 0.01% |
 | JavaScript | 1 | 0.00% |
-| **Total** | **174,853** | **100.00%** |
+| **Total** | **178,416** | **100.00%** |
 
 > Generated automatically by GitHub Actions.
